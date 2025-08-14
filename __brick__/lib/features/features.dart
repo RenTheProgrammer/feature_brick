@@ -1,1 +1,3 @@
-export '{{name.snakeCase()}}/{{name.snakeCase()}}.dart';\n
+
+
+export '{{name.snakeCase()}}/{{name.snakeCase()}}.dart';
